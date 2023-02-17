@@ -25,6 +25,9 @@ some major metrics needed are listed below,
 
 
 ## Welcome to this project on Vehicle Sales Report Data Analysis in data Analytics using Excel platform.
+<p align="center">
+    <img src="https://github.com/darksoul0007/Sales-Dashboard-Vehicles-_Excel-project/blob/main/Vehicles%20sales%20dashboards/Excel%20files/dashboard%20.png.png" width="400">
+</p>
 
 In this project, we explore 
 
