@@ -33,7 +33,7 @@ In this project, we explore
 
 - Adding dynamic titles 
 - Pivot tables based on requirent analysis 
-- Using Dax to create measure along with pivot 
+- Using Different measure along with pivot 
 - Adding symbols based on the values for visual representation 
 - Designing dashboard in Excel 
 - Slicers formatting
